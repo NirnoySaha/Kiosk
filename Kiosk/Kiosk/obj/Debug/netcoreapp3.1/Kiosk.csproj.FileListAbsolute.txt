@@ -1,0 +1,13 @@
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\bin\Debug\netcoreapp3.1\Kiosk.exe
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\bin\Debug\netcoreapp3.1\Kiosk.deps.json
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\bin\Debug\netcoreapp3.1\Kiosk.runtimeconfig.json
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\bin\Debug\netcoreapp3.1\Kiosk.runtimeconfig.dev.json
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\bin\Debug\netcoreapp3.1\Kiosk.dll
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\bin\Debug\netcoreapp3.1\Kiosk.pdb
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\obj\Debug\netcoreapp3.1\Kiosk.csprojAssemblyReference.cache
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\obj\Debug\netcoreapp3.1\Kiosk.AssemblyInfoInputs.cache
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\obj\Debug\netcoreapp3.1\Kiosk.AssemblyInfo.cs
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\obj\Debug\netcoreapp3.1\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\obj\Debug\netcoreapp3.1\Kiosk.dll
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\obj\Debug\netcoreapp3.1\Kiosk.pdb
+C:\Users\Nirnoy Saha\source\repos\Kiosk\Kiosk\obj\Debug\netcoreapp3.1\Kiosk.genruntimeconfig.cache
